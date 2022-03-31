@@ -1,3 +1,2 @@
-ls -l
-ls -lmpa
-ls -a
+#!/bin/bash
+ls -lsa
